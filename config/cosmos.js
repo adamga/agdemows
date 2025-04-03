@@ -1,6 +1,6 @@
 module.exports = {
-  endpoint: "YOUR_COSMOS_DB_ENDPOINT",
-  key: "YOUR_COSMOS_DB_PRIMARY_KEY",
+  endpoint: "https://your-cosmos-db-account.documents.azure.com:443/",
+  key: "your-cosmos-db-primary-key",
   databaseId: "MySimFlightsDB",
   containerId: "UserProfiles",
 };

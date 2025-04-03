@@ -28,7 +28,7 @@ npm install
 
 3. Configure the Cosmos DB connection:
 
-Create a `config/cosmos.js` file with the following content:
+Update the `config/cosmos.js` file with the following content:
 
 ```javascript
 module.exports = {
